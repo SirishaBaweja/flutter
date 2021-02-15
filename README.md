@@ -1,2 +1,2 @@
-# music application
+# a simple application
 using flutter 
